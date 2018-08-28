@@ -1,6 +1,6 @@
 # crud-react-native-rxdb
-Crud with react native and rxdb database
-Using:
+Crud with react native and rxdb database. <br />
+Using:<br />
 
 rxdb => database <br />
 react-native-sqlite-2 => adapter for database <br />
