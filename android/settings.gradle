@@ -1,0 +1,5 @@
+rootProject.name = 'crud_rn_rxdb'
+include ':react-native-sqlite-2'
+project(':react-native-sqlite-2').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sqlite-2/android')
+
+include ':app'
